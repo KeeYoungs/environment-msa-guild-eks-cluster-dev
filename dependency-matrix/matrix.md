@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[KeeYoungYoon/msa_guild_jx_go_test](https://github.com/KeeYoungYoon/msa_guild_jx_go_test.git) |  | []() | 
+[KeeYoungYoon/msa-guild-jx-test-spring](https://github.com/KeeYoungYoon/msa-guild-jx-test-spring.git) |  | []() | 

@@ -1,0 +1,10 @@
+adminUser:
+  password: local:msa-guild-eks-cluster/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: ykylfc09@gmail.com
+  token: local:msa-guild-eks-cluster/pipelineUser:token
+  username: KeeYoungYoon
+prow:
+  hmacToken: local:msa-guild-eks-cluster/prow:hmacToken

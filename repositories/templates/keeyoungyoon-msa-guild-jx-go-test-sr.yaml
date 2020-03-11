@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: KeeYoungYoon
+    provider: github
+    repository: msa_guild_jx_go_test
+  name: keeyoungyoon-msa-guild-jx-go-test
+spec:
+  description: Imported application for KeeYoungYoon/msa_guild_jx_go_test
+  httpCloneURL: https://github.com/KeeYoungYoon/msa_guild_jx_go_test.git
+  org: KeeYoungYoon
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: msa_guild_jx_go_test
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/KeeYoungYoon/msa_guild_jx_go_test.git
